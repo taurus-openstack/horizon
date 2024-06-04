@@ -35,6 +35,7 @@ openstack_dashboard/horizon_wsgi.py
 doc/build/
 /static/
 .tox
+.venv
 node_modules
 build
 dist
